@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanjin-saron
 - 👀 I’m interested in Software Testing and Quality Assurance
 - 🌱 I’m currently learning Manual Testing
-- 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to email on tanjin.mahmud39@gmail.com
 
 <!---
